@@ -26,7 +26,7 @@ class Node {
     }
 }
 
-public class Main {
+public class AhoCorasickCaseInsensitive {
     static String input = "Fuck you money";
     static Node root;
     static String[] keys = {"MONeY"};
